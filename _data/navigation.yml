@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Publications"
-    url: /publications/
+    url: publications/
   - title: "Notes"
     url: https://github.com/hclimente/wisdom
   - title: "Code"
-    url: /code/
+    url: code/
   - title: "Teaching"
-    url: /teaching/
+    url: teaching/
   # - title: "Sitemap"
   #   url: /sitemap/
