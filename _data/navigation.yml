@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     url: /publications/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Notes"
+    url: https://github.com/hclimente/wisdom
   - title: "Code"
     url: /code/
   - title: "Teaching"
