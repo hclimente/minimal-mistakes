@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Héctor Climente-González"
+title                    : "Héctor Climente"
 title_separator          : "-"
-name                     : "Héctor Climente"
+name                     : &name "Héctor Climente"
 description              : "Biochemist in a computer-driven world."
 url                      : "https://hclimente.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Héctor Climente"
+  name             : *name
   avatar           : "/assets/images/profile.png"
-  bio              : "PhD student at the Center for computational biology of Mines ParisTech, Institut Curie and INSERM."
-  location         : "Paris"
+  bio              : "PhD student/recycled biochemist."
+  location         : "Paris, France"
   email            :
   uri              :
   bitbucket        : "hclimente"
