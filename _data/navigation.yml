@@ -3,10 +3,8 @@ main:
   - title: "Publications"
     url: publications/
   - title: "Notes"
-    url: https://github.com/hclimente/wisdom
+    url: http://hclimente.github.io/wisdom/
   - title: "Code"
     url: code/
   - title: "Teaching"
     url: teaching/
-  # - title: "Sitemap"
-  #   url: /sitemap/
