@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Héctor Climente"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png"
   bio              : "PhD student at the Center for computational biology of Mines ParisTech, Institut Curie and INSERM."
   location         : "Paris"
   email            :
