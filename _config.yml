@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Héctor Climente-González"
 title_separator          : "-"
 name                     : "Héctor Climente"
-description              : "Biology, machine learning and science."
+description              : "Biochemist in a computer-driven world."
 url                      : "https://hclimente.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hclimente/hclimente.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Héctor Climente"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biochemist in a computer-driven world."
+  bio              : "PhD student at the <a href="http://cbio.ensmp.fr/" target="_blank">Center for computational biology</a>  of Mines ParisTech, Institut Curie and INSERM."
   location         : "Paris"
   email            :
   uri              :
