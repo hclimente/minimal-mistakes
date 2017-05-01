@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Héctor Climente"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student at the <a href="http://cbio.ensmp.fr/" target="_blank">Center for computational biology</a>  of Mines ParisTech, Institut Curie and INSERM."
+  bio              : "PhD student at the Center for computational biology of Mines ParisTech, Institut Curie and INSERM."
   location         : "Paris"
   email            :
   uri              :
