@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 title: Teaching activities
+layout: single
 ---
 
 # 2017

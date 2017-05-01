@@ -1,6 +1,7 @@
 ---
 permalink: /code/
 title: Code
+layout: single
 ---
 
 # Projects
@@ -19,7 +20,7 @@ Leverage on biological networks to extract more information from GWAS. Under act
 
 Adding significance symbols to ggplots was never so easy. ggstars draws an asterisk and a bracket over user-specified significant comparisons. Supports barplots and boxplots.
 
-## [rscones](https://github.com/hclimente/rscones) 
+## [rscones](https://github.com/hclimente/rscones)
 
 An R interface for SConES, and other components of the scones2 GWAS suite. In active development.
 
