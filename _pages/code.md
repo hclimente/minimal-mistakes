@@ -10,9 +10,9 @@ layout: single
 
 Evaluate the impact of alternative splicing in cancer. We conducted an analysis (available [here](https://github.com/hclimente/smartas)) on the TCGA dataset.
 
-### [scones2](https://github.com/hclimente/scones2) (temporary name)
+### [gin](https://github.com/hclimente/gin)
 
-Leverage on biological networks to extract more information from GWAS. Under active development.
+Leverage on biological networks to extract more information from GWAS. Based on [@dominikgrimm](https://github.com/dominikgrimm)'s implementation of [SConES](https://academic.oup.com/bioinformatics/article/29/13/i171/198210/Efficient-network-guided-multi-locus-association). Under active development.
 
 ## R libraries
 
@@ -20,9 +20,9 @@ Leverage on biological networks to extract more information from GWAS. Under act
 
 Adding significance symbols to ggplots was never so easy. ggstars draws an asterisk and a bracket over user-specified significant comparisons. Supports barplots and boxplots.
 
-### [rscones](https://github.com/hclimente/rscones)
+### [martini](https://github.com/hclimente/martini)
 
-An R interface for SConES, and other components of the scones2 GWAS suite. In active development.
+An R interface for gin, and other components of the scones2 GWAS suite. Under active development.
 
 ### [find.me](https://github.com/hclimente/find.me)
 
