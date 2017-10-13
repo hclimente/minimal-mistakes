@@ -8,11 +8,11 @@ layout: single
 
 ### ⚔️ [spada](https://github.com/hclimente/spada)
 
-Evaluate the impact of alternative splicing on the proteome. We conducted an analysis (available [here](https://github.com/hclimente/smartas)) on the TCGA dataset.
+Evaluate the impact of alternative splicing on the proteome. It was applied on the TCGA dataset in [Climente-González *et. al* (2017)](http://www.sciencedirect.com/science/article/pii/S221112471731104X?via%3Dihub); all the analyses are available [here](https://github.com/hclimente/smartas).
 
 ### 🍶 [gin](https://github.com/hclimente/gin) and 🍸 [martini](https://github.com/hclimente/martini)
 
-Leverage on biological networks to extract more information from GWAS. gin is a standalone tool; martini is an R interface. Under active development.
+Leverage on biological networks to extract more information from GWAS. `gin` is a standalone tool; `martini` is an R interface with many helper tools. Under active development.
 
 ## Misc
 
